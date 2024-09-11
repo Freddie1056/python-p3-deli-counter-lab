@@ -104,3 +104,4 @@ elements as well as how to [iterate with index numbers][iterate-with-index].
 [add-to-list]: https://www.w3schools.com/python/python_lists_add.asp
 [remove-from-list]: https://www.w3schools.com/python/gloss_python_remove_list_items.asp
 [iterate-with-index]: https://www.techieheap.com/how-to-iterate-a-python-list-with-index/
+# python-p3-deli-counter-lab
